@@ -107,9 +107,6 @@ body {
     border-radius: 6px;
     transition: all 0.2s ease;
 }
-.chat__form:active{
-    transform: scale(0.96);
-}
 .chat__input{
     border: none;
     padding: 15px;
